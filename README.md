@@ -76,10 +76,12 @@ Aberto para extensão, mas fechado para modificação
 ![image](https://github.com/machadoborges1/Construcao_de_hardware/assets/96207730/01d2305c-be56-43dc-9088-183455ed4b7f)
 
 
-
-
 ## Conclusão
 Este trabalho me ensinou bem melhor a aplicar estes padrões de projeto, junto com a importância principalmente do principio de injeção de dependência.
 É gratificante podr programar um codico um pouco menos acoplado.
 
 Foi mais dificil que eu imaginava usar este tema e conseguir aplicar varios padrões de projeto.
+
+
+## Autores
+Humberto Machado Borges Neto
