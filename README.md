@@ -68,8 +68,14 @@ Este princípio estabeleceu que esta classe tem apenas um motivo para mudar, ou 
 ![image](https://github.com/machadoborges1/Construcao_de_hardware/assets/96207730/cd4664ae-25ac-4276-adb7-6e163e58cf1d)
 
 
-### Princípio da Segregação de Interface (ISP)
-Os clientes não devem ser forçados a depender de interfaces que não usam.
+### Aberto/Fechado
+Aberto para extensão, mas fechado para modificação
+
+![image](https://github.com/machadoborges1/Construcao_de_hardware/assets/96207730/f880f6cb-a477-41c9-84d4-ead877601397)
+
+![image](https://github.com/machadoborges1/Construcao_de_hardware/assets/96207730/01d2305c-be56-43dc-9088-183455ed4b7f)
+
+
 
 
 ## Conclusão
